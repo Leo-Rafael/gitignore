@@ -1,0 +1,16 @@
+index-teste.html
+### react ###
+.DS_*
+*.log (colocar assim serve para todos os arquivos que terminam em .log serem ignorados)
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
